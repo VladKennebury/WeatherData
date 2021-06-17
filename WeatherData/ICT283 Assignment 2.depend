@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1591625914 source:c:\users\vladislav kennebury\desktop\ict283 assignment 2\date.cpp
+	"Date.h"
+
+1591625914 c:\users\vladislav kennebury\desktop\ict283 assignment 2\date.h
+	<iostream>
+	<string>
+
+1591623362 source:c:\users\vladislav kennebury\desktop\ict283 assignment 2\statistics.cpp
+	"Statistics.h"
+	<map>
+	<assert.h>
+
+1591623362 c:\users\vladislav kennebury\desktop\ict283 assignment 2\statistics.h
+	<iostream>
+	<string>
+	<cmath>
+	<map>
+
+1591623362 source:c:\users\vladislav kennebury\desktop\ict283 assignment 2\time.cpp
+	"Time.h"
+
+1591623362 c:\users\vladislav kennebury\desktop\ict283 assignment 2\time.h
+	<iostream>
+	<string>
+
+1591964898 source:c:\users\vladislav kennebury\desktop\ict283 assignment 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	"Time.h"
+	"Vector.h"
+	"Date.h"
+	"Statistics.h"
+	"BST.h"
+	"WeatherType.h"
+
+1591622664 c:\users\vladislav kennebury\desktop\ict283 assignment 2\vector.h
+	<iostream>
+	<string>
+	<assert.h>
+
+1591627622 source:c:\users\vladislav kennebury\desktop\ict283 assignment 2\weathertype.cpp
+	"WeatherType.h"
+
+1591625920 c:\users\vladislav kennebury\desktop\ict283 assignment 2\weathertype.h
+	<iostream>
+	"time.h"
+	"date.h"
+
+1591623587 c:\users\vladislav kennebury\desktop\ict283 assignment 2\bst.h
+	<iostream>
+
+1591625914 source:c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\date.cpp
+	"Date.h"
+
+1591625914 c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\date.h
+	<iostream>
+	<string>
+
+1591964898 source:c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	"Time.h"
+	"Vector.h"
+	"Date.h"
+	"Statistics.h"
+	"BST.h"
+	"WeatherType.h"
+
+1591623362 c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\time.h
+	<iostream>
+	<string>
+
+1591622664 c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\vector.h
+	<iostream>
+	<string>
+	<assert.h>
+
+1591623362 c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\statistics.h
+	<iostream>
+	<string>
+	<cmath>
+	<map>
+
+1591623587 c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\bst.h
+	<iostream>
+
+1591625920 c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\weathertype.h
+	<iostream>
+	"time.h"
+	"date.h"
+
+1591623362 source:c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\statistics.cpp
+	"Statistics.h"
+	<map>
+	<assert.h>
+
+1591623362 source:c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\time.cpp
+	"Time.h"
+
+1591627622 source:c:\users\vladislav kennebury\desktop\extra random\ict283 assignment 2\weathertype.cpp
+	"WeatherType.h"
+
